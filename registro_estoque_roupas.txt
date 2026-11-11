@@ -1,0 +1,18 @@
+====================================================================
+DATA DE REGISTRO: 11/11/2026 09:15
+SKU: CAMISETA 11 | CATEGORIA: csamiseta
+PECA: camiseta branca com decote (algodao)
+COR: branca | TAMANHO: UNICO
+PRECO CUSTO: R$ 55.00 | PRECO VENDA: R$ 79.90 | LUCRO/UNID: R$ 24.90
+QUANTIDADE: 2 un. | STATUS: ESTOQUE BAIXO (Repor)
+====================================================================
+
+====================================================================
+DATA DE REGISTRO: 11/11/2026 09:16
+SKU: SHOR09 | CATEGORIA: short
+PECA: shorts curto (jeans)
+COR: azul | TAMANHO: P
+PRECO CUSTO: R$ 20.00 | PRECO VENDA: R$ 69.90 | LUCRO/UNID: R$ 49.90
+QUANTIDADE: 5 un. | STATUS: DISPONIVEL
+====================================================================
+
